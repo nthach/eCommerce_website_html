@@ -10,3 +10,76 @@ html {
     box-sizing: border-box;
     font-size: 62.5%;
 }
+
+
+body {
+    font-family: "Lucida Sans", "Lucida Sans Regular", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin: auto;
+    
+
+}
+
+header {
+    background-color: white;
+    position:flex;
+    padding: 3rem;
+    margin: center;
+}
+
+nav {
+    display: ;
+}
+
+nav ul {
+    list-style: none;
+    position:absolute;
+    top: 0.7rem;
+    right: 1rem;
+    text-align: center;
+    float: ;
+}
+
+nav li {
+    display: inline;
+    margin-left: 0.5rem;
+    margin-left: 5pc;
+    padding-top: 20px;
+    float: ;
+}
+
+nav a {
+    color: black;
+    font-size: 30px; 
+    text-decoration: none;
+    font-weight: bold;
+    font-style: calc();
+    float: ;
+}
+
+
+section div {
+    width: 50%;
+    margin: 10rem;
+}
+
+ .ABOUT p {
+    margin: 25px;
+}
+
+section p {
+    height: 50px;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 4rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
